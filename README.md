@@ -13,14 +13,12 @@ The script is designed to be user-friendly and can be run directly from the term
 
 On macOS:
 
-bash
-Copy code
+
 python3 nameserver-checker.py path/to/domains.txt
 File Format:
 Ensure the domains are listed in the 'domains.txt' file with one domain per line:
 
-python
-Copy code
+
 example1.com
 example2.org
 example3.net
