@@ -17,9 +17,3 @@ On macOS:
 python3 nameserver-checker.py path/to/domains.txt
 File Format:
 Ensure the domains are listed in the 'domains.txt' file with one domain per line:
-
-
-example1.com
-example2.org
-example3.net
-...
