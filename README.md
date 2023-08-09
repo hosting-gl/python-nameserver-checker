@@ -4,9 +4,5 @@ This python script takes a list of domains, and makes a whois on them, and shows
 Usage is easy, on a mac write python3 nameserver-checker.py path/to/domains.txt 
 The list of domains must be one domain per line aka
 
-domain.tld
-domain.tld
-domain.tld
-etc etc etc
 
 
